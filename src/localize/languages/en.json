@@ -1,60 +1,60 @@
 {
   "common": {
     "version": "v",
-    "invalid_configuration": "Invalid configuration",
-    "show_warning": "Show Warning",
-    "show_error": "Show Error"
+    "invalid_configuration": "Błędna Konfiguracja",
+    "show_warning": "Pokaż Ostrzeżenie",
+    "show_error": "Pokaż Błąd"
   },
   "tabs": {
     "general": {
-      "title": "General",
-      "entity": "Entity (Required)",
-      "name": "Name (Optional)",
-      "show_name": "Show name?",
-      "show_state": "Show state?"
+      "title": "Ogólne",
+      "entity": "Obecność (Wymagane)",
+      "name": "Nazwa (Opcjonale)",
+      "show_name": "Pokazać nazwę?",
+      "show_state": "Pokazać stan?"
     },
     "icon": {
-      "title": "Icon",
-      "icon": "Icon (Optional)",
-      "show_icon": "Show icon?",
-      "use_state_color": "Use state color?",
-      "tap_action": "Tap action"
+      "title": "Ikona",
+      "icon": "Ikona (Opcjonalne)",
+      "show_icon": "Pokaż ikonę?",
+      "use_state_color": "Użyć kolor stanu?",
+      "tap_action": "Akcja dotyku"
     },
     "slider": {
-      "title": "Slider",
-      "direction": "Direction",
-      "background": "Background",
-      "use_brightness": "Use brightness?",
-      "show_track": "Show track?",
-      "force_square": "Force square?"
+      "title": "Suwak",
+      "direction": "Kierunek",
+      "background": "Tło",
+      "use_brightness": "Użyć rozjaśnienia?",
+      "show_track": "Pokazać ścieżkę?",
+      "force_square": "Wymusić kwadrat?"
     },
     "action_button": {
-      "title": "Action button",
-      "mode": "Mode",
-      "icon": "Icon",
-      "show_button": "Show button?",
-      "show_spinner": "Show spinner?",
-      "tap_action": "Tap action"
+      "title": "Przycisk akcji",
+      "mode": "Tryb",
+      "icon": "Ikona",
+      "show_button": "Pokaż przycisk?",
+      "show_spinner": "Pokaż wiatrak?",
+      "tap_action": "Akcja dotyku"
     }
   },
   "state": {
-    "off": "Off",
-    "on": "On"
+    "off": "Wyłączony",
+    "on": "Włączony"
   },
   "direction": {
-    "left-right": "Left to right",
-    "top-bottom": "Top to bottom",
-    "bottom-top": "Bottom to top"
+    "left-right": "Od lewa do prawa",
+    "top-bottom": "Z góry na dół",
+    "bottom-top": "Z dołu do góry"
   },
   "background": {
-    "striped": "Striped",
+    "striped": "Zebra",
     "gradient": "Gradient",
-    "solid": "Solid",
-    "triangle": "Triangle",
-    "custom": "Custom"
+    "solid": "Płaskie",
+    "triangle": "Trójkąt",
+    "custom": "Własne"
   },
   "mode": {
-    "toggle": "Toggle",
-    "custom": "Custom"
+    "toggle": "Przełącz",
+    "custom": "Własne"
   }
 }
